@@ -48,6 +48,8 @@ https://www.webpagetest.org/
 
 http://cssstats.com/
 
+http://wpotools.github.io/perfBar/
+
 https://www.keycdn.com/blog/website-performance-metrics/
 
 
@@ -75,8 +77,6 @@ https://wpostats.com/
 
 ## PERFORMANCE BUDGET TOOLS
 http://www.performancebudget.io/
-
-http://wpotools.github.io/perfBar/
 
 https://css-tricks.com/performance-tools/
 

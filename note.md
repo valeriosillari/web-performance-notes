@@ -50,6 +50,12 @@ http://cssstats.com/
 
 http://wpotools.github.io/perfBar/
 
+https://varvy.com/pagespeed/
+
+https://tools.pingdom.com
+
+https://gtmetrix.com/
+
 https://www.keycdn.com/blog/website-performance-metrics/
 
 

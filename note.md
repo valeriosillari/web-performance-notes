@@ -85,3 +85,9 @@ https://speedcurve.com/
 https://calibreapp.com/
 
 https://www.akamai.com/us/en/solutions/products/web-performance/
+
+## Extras
+http://motherfuckingwebsite.com/
+
+http://shouldiuseacarousel.com/
+

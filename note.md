@@ -38,6 +38,8 @@ https://medium.com/@luisvieira_gmr/understanding-the-critical-rendering-path-ren
 
 https://bitsofco.de/understanding-the-critical-rendering-path/?utm_source=Responsive+Design+Weekly&utm_campaign=c14da36203-RWD_Newsletter_242&utm_medium=email&utm_term=0_df65b6d7c8-c14da36203-59011669
 
+https://www.speedshop.co/2015/10/07/frontend-performance-chrome-timeline.html
+
 
 ## ANALYZING
 https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/timeline-tool

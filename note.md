@@ -58,6 +58,9 @@ https://tools.pingdom.com
 
 https://gtmetrix.com/
 
+http://pagelocity.com/
+
+
 https://www.keycdn.com/blog/website-performance-metrics/
 
 https://www.keycdn.com/blog/website-speed-test-tools/

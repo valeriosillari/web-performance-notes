@@ -104,9 +104,8 @@ https://calibreapp.com/
 https://www.akamai.com/us/en/solutions/products/web-performance/
 
 ## Extras
-http://motherfuckingwebsite.com/
-
-http://shouldiuseacarousel.com/
+Designing for Performance (Speaker Deck):
+http://larahogan.me/design/
 
 Google I/O 2014 - Perf culture (video speech):
 https://www.youtube.com/watch?v=0bRLtJHo0pI
